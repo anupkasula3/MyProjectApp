@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MyProjectApp",
+    "slug": "music",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2694f158-e21c-4be7-9386-8a1ee7f8caf1"
+      }
+    },
+    "owner": "anup354"
+  },
+  "name": "MyProjectApp"
+}

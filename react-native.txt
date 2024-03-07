@@ -1,0 +1,10 @@
+1. npx create-react-native-app AwesomeProject
+2. cd AwesomeProject
+3.npx expo start
+4.npm add nativewind
+5. npm add --dev tailwindcss
+6.npx tailwindcss init 
+7.content: ["./App.{js,jsx,ts,tsx}", "./screens/**/*.{js,jsx,ts,tsx}"]
+
+
+https://www.nativewind.dev/quick-starts/create-react-native-app
